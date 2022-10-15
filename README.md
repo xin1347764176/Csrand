@@ -1,0 +1,2 @@
+# Csrand
+srand switch
